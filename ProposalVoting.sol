@@ -109,3 +109,6 @@ contract ProposalVoting {
     */
 
 }
+
+/* I could not find any use of revert statement directly in this contract but,
+instead used assert which by default implements revert in case of condition failure. */
