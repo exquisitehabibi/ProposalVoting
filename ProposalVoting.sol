@@ -1,3 +1,12 @@
+/* 
+Greetings! I have created this code from scratch and idk why I've recieved an "unoriginal project" review for this and I genuinely don't seem to know why. I am resubmitting it as it is
+as i created it myself. KIndly don't just judge because on the basis of appearance as I used 'beautify code" to make it more readable. And if still you want to reject then kindly 
+provide some real feedback as why did this project appear to be unoriginal as all my projects were original and were approved immediately. However, this project has been bugging me 
+because of the miscommunication between the approvers and myself!
+Lastly, sorry for the nuisance of writing this here, but there is no response on the discord server so I don't know how to get feedback. 
+Thank you! Hope you will watch the video before judging!
+*/
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
