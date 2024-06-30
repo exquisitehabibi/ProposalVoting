@@ -28,6 +28,8 @@ contract ProposalVoting {
     event ProposalCreated(uint indexed proposalId, string description);
     event VoteCasted(address indexed voter, uint indexed proposalId);
 
+    // Use of modifiers to avoid the use of require statments again and again.
+
     modifier onlyAdmin() {
         require(msg.sender == admin, "only admin can perform this action");
         _;
